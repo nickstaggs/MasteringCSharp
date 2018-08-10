@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasteringCSharp", "MasteringCSharp\MasteringCSharp.csproj", "{0B061099-ACC0-406B-AB6D-2C973E69F213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasteringCSharp", "MasteringCSharp\MasteringCSharp.csproj", "{0B061099-ACC0-406B-AB6D-2C973E69F213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{36609A6B-CA11-4DDC-967B-07517A5F45FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals.Tests", "Fundamentals.Tests\Fundamentals.Tests.csproj", "{9F842578-EA3D-4B04-AAAC-F899F717C15A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0B061099-ACC0-406B-AB6D-2C973E69F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B061099-ACC0-406B-AB6D-2C973E69F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B061099-ACC0-406B-AB6D-2C973E69F213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36609A6B-CA11-4DDC-967B-07517A5F45FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36609A6B-CA11-4DDC-967B-07517A5F45FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36609A6B-CA11-4DDC-967B-07517A5F45FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36609A6B-CA11-4DDC-967B-07517A5F45FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

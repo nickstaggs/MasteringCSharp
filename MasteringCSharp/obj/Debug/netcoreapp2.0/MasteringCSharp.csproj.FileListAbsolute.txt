@@ -9,3 +9,14 @@ C:\Users\NStaggs\source\repos\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringC
 C:\Users\NStaggs\source\repos\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.AssemblyInfo.cs
 C:\Users\NStaggs\source\repos\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.dll
 C:\Users\NStaggs\source\repos\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\bin\Debug\netcoreapp2.0\MasteringCSharp.deps.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\bin\Debug\netcoreapp2.0\MasteringCSharp.runtimeconfig.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\bin\Debug\netcoreapp2.0\MasteringCSharp.runtimeconfig.dev.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\bin\Debug\netcoreapp2.0\MasteringCSharp.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\bin\Debug\netcoreapp2.0\MasteringCSharp.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.csprojAssemblyReference.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.csproj.CoreCompileInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.AssemblyInfoInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.AssemblyInfo.cs
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\MasteringCSharp\obj\Debug\netcoreapp2.0\MasteringCSharp.pdb

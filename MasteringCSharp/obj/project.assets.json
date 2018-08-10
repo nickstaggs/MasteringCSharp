@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NStaggs\\source\\repos\\MasteringCSharp\\MasteringCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\MasteringCSharp\\MasteringCSharp.csproj",
       "projectName": "MasteringCSharp",
-      "projectPath": "C:\\Users\\NStaggs\\source\\repos\\MasteringCSharp\\MasteringCSharp.csproj",
+      "projectPath": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\MasteringCSharp\\MasteringCSharp.csproj",
       "packagesPath": "C:\\Users\\NStaggs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NStaggs\\source\\repos\\MasteringCSharp\\obj\\",
+      "outputPath": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\MasteringCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

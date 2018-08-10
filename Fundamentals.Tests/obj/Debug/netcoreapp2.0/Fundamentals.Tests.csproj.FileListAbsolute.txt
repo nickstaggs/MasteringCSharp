@@ -1,0 +1,15 @@
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Fundamentals.Tests.deps.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Fundamentals.Tests.runtimeconfig.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Fundamentals.Tests.runtimeconfig.dev.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Fundamentals.Tests.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\bin\Debug\netcoreapp2.0\Fundamentals.Tests.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.csprojAssemblyReference.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.AssemblyInfoInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.AssemblyInfo.cs
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.Tests\obj\Debug\netcoreapp2.0\Fundamentals.Tests.pdb
