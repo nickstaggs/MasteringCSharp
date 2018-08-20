@@ -1639,6 +1639,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Fundamentals/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Fundamentals.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fundamentals.dll": {}
+        }
       }
     }
   },
@@ -5628,10 +5638,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Fundamentals/1.0.0": {
+      "type": "project",
+      "path": "../Fundamentals/Fundamentals.csproj",
+      "msbuildProject": "../Fundamentals/Fundamentals.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Fundamentals >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.2",
       "Microsoft.NETCore.App >= 2.0.0",
       "NUnit3TestAdapter >= 3.10.0",
@@ -5674,7 +5690,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\Fundamentals\\Fundamentals.csproj": {
+              "projectPath": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\Fundamentals\\Fundamentals.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "Fundamentals.Tests/1.0.0": {
         "dependencies": {
+          "Fundamentals": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.7.2",
           "NUnit3TestAdapter": "3.10.0",
           "NUnit": "3.10.1"
@@ -1015,6 +1016,11 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Fundamentals/1.0.0": {
+        "runtime": {
+          "Fundamentals.dll": {}
+        }
       }
     }
   },
@@ -1527,6 +1533,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Fundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
