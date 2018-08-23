@@ -1,0 +1,11 @@
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\bin\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.deps.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\bin\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.runtimeconfig.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\bin\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.runtimeconfig.dev.json
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\bin\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\bin\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.AssemblyInfo.cs
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.dll
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.pdb
+C:\Users\NStaggs\Documents\projects\MasteringCSharp\Fundamentals.ConsoleApp\obj\Debug\netcoreapp2.0\Fundamentals.ConsoleApp.csprojAssemblyReference.cache

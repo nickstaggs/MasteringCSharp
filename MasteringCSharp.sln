@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasteringCSharp", "MasteringCSharp\MasteringCSharp.csproj", "{0B061099-ACC0-406B-AB6D-2C973E69F213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{36609A6B-CA11-4DDC-967B-07517A5F45FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{36609A6B-CA11-4DDC-967B-07517A5F45FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals.Tests", "Fundamentals.Tests\Fundamentals.Tests.csproj", "{9F842578-EA3D-4B04-AAAC-F899F717C15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals.ConsoleApp", "Fundamentals.ConsoleApp\Fundamentals.ConsoleApp.csproj", "{E749886A-2756-408F-8637-8BADFFF27067}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F842578-EA3D-4B04-AAAC-F899F717C15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E749886A-2756-408F-8637-8BADFFF27067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E749886A-2756-408F-8637-8BADFFF27067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E749886A-2756-408F-8637-8BADFFF27067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E749886A-2756-408F-8637-8BADFFF27067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
