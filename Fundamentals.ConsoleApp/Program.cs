@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Text.RegularExpressions;
 
 namespace Fundamentals.ConsoleApp
 {
@@ -24,6 +25,8 @@ namespace Fundamentals.ConsoleApp
 
             SplitExamples();
 
+            RegexExample();
+
             Thread.Sleep(3000);
         }
 
@@ -37,6 +40,23 @@ namespace Fundamentals.ConsoleApp
             {
                 Console.WriteLine(word);
             }
+        }
+
+        private static void RegexExample()
+        {
+            Regex pattern = new Regex(@"\d");
+            string text = "Nick0Staggs1Jon2Skeet3someone";
+            string[] words = pattern.Split(text);
+
+            foreach(string word in words)
+            {
+                Console.WriteLine(word);
+            }
+
+            string sample = "hello, world!";
+            Regex notVowelsPattern = new Regex("[^aeiou,! ]");
+            string vowels = notVowelsPattern.Replace(sample, "*");
+            Console.WriteLine(vowels);
         }
     }
 }

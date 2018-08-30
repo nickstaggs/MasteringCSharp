@@ -218,5 +218,31 @@ namespace Fundamentals.Tests
             string result = string.Format("price={0:c}", price);
             Assert.AreEqual("price=$10.50", result); //Locale dependent in the UK (poundsign weird L)10.50, culture of thread
         }
+
+        [Test]
+        public void EncodedString()
+        {
+            string AB = "AB";
+
+            // Range of char: 0-65535
+            string BA = Reverse(AB);
+
+            Encoding encoding = Encoding.UTF8;
+            string text = "ABC";
+            byte[] binary = encoding.GetBytes(text);
+
+            Assert.AreEqual(65, binary[0]);
+            Assert.AreEqual(66, binary[1]);
+            Assert.AreEqual(67, binary[2]);
+
+
+        }
+
+        private static string Reverse(string text)
+        {
+            char[] chars = text.ToCharArray();
+            Array.Reverse(chars);
+            return new string(chars);
+        }
     }
 }
