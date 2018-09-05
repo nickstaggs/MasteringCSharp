@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Fundamentals\Fundamentals.csproj" />
+    <ProjectReference Include="..\MasteringCSharp\MasteringCSharp.csproj" />
   </ItemGroup>
 
 </Project>

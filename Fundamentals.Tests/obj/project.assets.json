@@ -1649,6 +1649,19 @@
         "runtime": {
           "bin/placeholder/Fundamentals.dll": {}
         }
+      },
+      "MasteringCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MasteringCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MasteringCSharp.dll": {}
+        }
       }
     }
   },
@@ -5643,11 +5656,17 @@
       "type": "project",
       "path": "../Fundamentals/Fundamentals.csproj",
       "msbuildProject": "../Fundamentals/Fundamentals.csproj"
+    },
+    "MasteringCSharp/1.0.0": {
+      "type": "project",
+      "path": "../MasteringCSharp/MasteringCSharp.csproj",
+      "msbuildProject": "../MasteringCSharp/MasteringCSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Fundamentals >= 1.0.0",
+      "MasteringCSharp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.2",
       "Microsoft.NETCore.App >= 2.0.0",
       "NUnit3TestAdapter >= 3.10.0",
@@ -5693,6 +5712,9 @@
           "projectReferences": {
             "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\Fundamentals\\Fundamentals.csproj": {
               "projectPath": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\Fundamentals\\Fundamentals.csproj"
+            },
+            "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\MasteringCSharp\\MasteringCSharp.csproj": {
+              "projectPath": "C:\\Users\\NStaggs\\Documents\\projects\\MasteringCSharp\\MasteringCSharp\\MasteringCSharp.csproj"
             }
           }
         }

@@ -9,6 +9,7 @@
       "Fundamentals.Tests/1.0.0": {
         "dependencies": {
           "Fundamentals": "1.0.0",
+          "MasteringCSharp": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.7.2",
           "NUnit3TestAdapter": "3.10.0",
           "NUnit": "3.10.1"
@@ -1021,6 +1022,11 @@
         "runtime": {
           "Fundamentals.dll": {}
         }
+      },
+      "MasteringCSharp/1.0.0": {
+        "runtime": {
+          "MasteringCSharp.dll": {}
+        }
       }
     }
   },
@@ -1535,6 +1541,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "Fundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasteringCSharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
